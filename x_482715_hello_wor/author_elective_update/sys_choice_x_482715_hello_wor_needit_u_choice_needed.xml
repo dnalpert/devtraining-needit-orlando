@@ -24,6 +24,25 @@
             <element>u_choice_needed</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_482715_hello_wor_needit</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 21:15:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b317a6a07349010c498f2ae7c1ed073</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 21:15:55</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_needed</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Human Resources 2</label>
             <language>en</language>
             <name>x_482715_hello_wor_needit</name>
@@ -158,7 +177,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-05-11 22:45:53</sys_created_on>
-            <sys_id>ce729392073c5010c498f2ae7c1ed012</sys_id>
+            <sys_id>c20f622a07349010c498f2ae7c1ed019</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_choice_needed</sys_name>
             <sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>

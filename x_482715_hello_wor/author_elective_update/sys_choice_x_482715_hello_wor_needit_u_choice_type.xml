@@ -82,7 +82,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2020-05-11 22:43:30</sys_created_on>
-            <sys_id>d6729392073c5010c498f2ae7c1ed036</sys_id>
+            <sys_id>060f622a07349010c498f2ae7c1ed030</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_choice_type</sys_name>
             <sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>

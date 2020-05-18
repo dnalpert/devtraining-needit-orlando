@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-11 22:43:30</sys_created_on>
-        <sys_id>78721392073c5010c498f2ae7c1ed09d</sys_id>
+        <sys_id>590feee607349010c498f2ae7c1ed0dd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Request type</sys_name>
         <sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
         <sys_update_name>sys_dictionary_x_482715_hello_wor_needit_u_choice_type</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-18 05:02:32</sys_updated_on>
+        <sys_updated_on>2020-05-18 21:06:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

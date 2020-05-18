@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Needit Historical Occassion Data2" language="en" table="x_482715_hello_wor_needit_historical_occassion_data2">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Needit Historical Occassion Data2</label>
+            <language>en</language>
+            <name>x_482715_hello_wor_needit_historical_occassion_data2</name>
+            <plural>Needit Historical Occassion Data2s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-18 21:36:53</sys_created_on>
+            <sys_id>cb067e2e07349010c498f2ae7c1ed0ee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Needit Historical Occassion Data2</sys_name>
+            <sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
+            <sys_update_name>sys_documentation_x_482715_hello_wor_needit_historical_occassion_data2__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-18 21:36:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
