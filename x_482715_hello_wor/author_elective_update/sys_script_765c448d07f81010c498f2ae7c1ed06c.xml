@@ -57,7 +57,7 @@
     <sys_translated_text action="DELETE" query="documentkey=765c448d07f81010c498f2ae7c1ed06c"/>
     <sys_update_version action="INSERT_OR_UPDATE">
         <action>DELETE</action>
-        <application display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</application>
+        <application display_value="NeedIt">59fa22dc07781010c498f2ae7c1ed0ab</application>
         <file_path/>
         <instance_id>3841a092db974c180b9d21c4059619c6</instance_id>
         <instance_name>dev102138</instance_name>
@@ -98,10 +98,10 @@
         <sys_metadata>765c448d07f81010c498f2ae7c1ed06c</sys_metadata>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Needit When needed same day request</sys_name>
-        <sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
+        <sys_package display_value="NeedIt" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
         <sys_parent display_value="NeedIt">c4663ad407b81010c498f2ae7c1ed05b</sys_parent>
         <sys_policy/>
-        <sys_scope display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
+        <sys_scope display_value="NeedIt">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
         <sys_scope_delete display_value="">64c714298a4f455ab3cd22ca4e330604</sys_scope_delete>
         <sys_update_name>sys_script_765c448d07f81010c498f2ae7c1ed06c</sys_update_name>
         <sys_update_version display_value="sys_script_765c448d07f81010c498f2ae7c1ed06c">8ab3dcc1073c1010c498f2ae7c1ed090</sys_update_version>

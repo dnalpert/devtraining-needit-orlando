@@ -14,9 +14,9 @@
         <sys_mod_count>0</sys_mod_count>
         <sys_name>NeedIt</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
+        <sys_package display_value="NeedIt" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
+        <sys_scope display_value="NeedIt">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
         <sys_update_name>sys_ui_application_d807fe1807b81010c498f2ae7c1ed039</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-05-11 21:54:44</sys_updated_on>

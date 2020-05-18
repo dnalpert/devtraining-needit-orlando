@@ -48,9 +48,9 @@
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Email Address Syntax Validation</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
+        <sys_package display_value="NeedIt" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
+        <sys_scope display_value="NeedIt">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
         <sys_update_name>sys_script_99f64d8107bc1010c498f2ae7c1ed006</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-05-13 21:41:45</sys_updated_on>
