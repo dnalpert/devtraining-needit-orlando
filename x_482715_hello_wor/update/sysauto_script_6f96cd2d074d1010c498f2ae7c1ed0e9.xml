@@ -27,21 +27,21 @@ overdueNITasks.addQuery('state', '!=', 3);
 overdueNITasks.query();
 // Write a log message for each overdue NeedIt Task Record
 while (overdueNITasks.next()) {
-    gs.info("Yahhhh --- Overdue NeedIt Task record = " + overdueNITasks.number);
+    gs.info("Email Action and MailTo --- Overdue NeedIt Task record = " + overdueNITasks.number);
     gs.eventQueue('x_482715_hello_wor_needit_tasks.overdueNeedItTask',overdueNITasks, overdueNITasks.number, gs.getUserName());
 }]]></script>
         <sys_class_name>sysauto_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-05-27 21:14:16</sys_created_on>
         <sys_id>6f96cd2d074d1010c498f2ae7c1ed0e9</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>Find Overdue NeedIt Tasks</sys_name>
         <sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
         <sys_update_name>sysauto_script_6f96cd2d074d1010c498f2ae7c1ed0e9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-28 00:25:41</sys_updated_on>
+        <sys_updated_on>2020-06-02 19:19:40</sys_updated_on>
         <time_zone>floating</time_zone>
         <upgrade_safe>false</upgrade_safe>
     </sysauto_script>

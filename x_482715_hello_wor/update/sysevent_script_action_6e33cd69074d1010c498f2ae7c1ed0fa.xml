@@ -3,7 +3,7 @@
         <active>true</active>
         <condition_script/>
         <description/>
-        <event_name>x_482715_hello_wor.overdueNeedItTask</event_name>
+        <event_name>x_482715_hello_wor.Update Overdue NeedIt</event_name>
         <name>Update Overdue NeedIt Task Priority</name>
         <order>100</order>
         <script><![CDATA[// Set the record priority to 1 - Critical
@@ -17,7 +17,7 @@ current.update();]]></script>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6e33cd69074d1010c498f2ae7c1ed0fa</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Update Overdue NeedIt Task Priority</sys_name>
         <sys_overrides/>
         <sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
@@ -25,6 +25,6 @@ current.update();]]></script>
         <sys_scope display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
         <sys_update_name>sysevent_script_action_6e33cd69074d1010c498f2ae7c1ed0fa</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-05-27 20:57:55</sys_updated_on>
+        <sys_updated_on>2020-06-02 16:16:31</sys_updated_on>
     </sysevent_script_action>
 </record_update>
