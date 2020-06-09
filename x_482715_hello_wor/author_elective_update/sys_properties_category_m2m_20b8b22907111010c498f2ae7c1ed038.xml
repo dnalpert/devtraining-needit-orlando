@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="DELETE">
+        <category display_value="NeedIt Properties">ed9572a507111010c498f2ae7c1ed02a</category>
+        <order>200</order>
+        <property display_value="x_482715_hello_wor.autoCloseOverdue" name="x_482715_hello_wor.autoCloseOverdue">0af6bea507111010c498f2ae7c1ed0c3</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 15:47:19</sys_created_on>
+        <sys_id>20b8b22907111010c498f2ae7c1ed038</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_482715_hello_wor.autoCloseOverdue.NeedIt Properties</sys_name>
+        <sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_20b8b22907111010c498f2ae7c1ed038</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 15:47:19</sys_updated_on>
+    </sys_properties_category_m2m>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</application>
+        <file_path/>
+        <instance_id>3841a092db974c180b9d21c4059619c6</instance_id>
+        <instance_name>dev102138</instance_name>
+        <name>sys_properties_category_m2m_20b8b22907111010c498f2ae7c1ed038</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m"><sys_properties_category_m2m action="INSERT_OR_UPDATE"><category display_value="NeedIt Properties">ed9572a507111010c498f2ae7c1ed02a</category><order>200</order><property display_value="x_482715_hello_wor.autoCloseOverdue" name="x_482715_hello_wor.autoCloseOverdue">0af6bea507111010c498f2ae7c1ed0c3</property><sys_class_name>sys_properties_category_m2m</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-06-09 15:47:19</sys_created_on><sys_id>20b8b22907111010c498f2ae7c1ed038</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_482715_hello_wor.autoCloseOverdue.NeedIt Properties</sys_name><sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package><sys_policy/><sys_scope display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope><sys_update_name>sys_properties_category_m2m_20b8b22907111010c498f2ae7c1ed038</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-06-09 15:47:19</sys_updated_on></sys_properties_category_m2m></record_update>]]></payload>
+        <payload_hash>1929660281</payload_hash>
+        <record_name>x_482715_hello_wor.autoCloseOverdue.NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>09e3be2507111010c498f2ae7c1ed0eb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 15:47:19</sys_created_on>
+        <sys_id>3809762907111010c498f2ae7c1ed054</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17299c3b6d20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 15:47:19</sys_updated_on>
+        <type>Category Property</type>
+        <update_guid>70097629411110106ae0b46d01685e54</update_guid>
+        <update_guid_history>70097629411110106ae0b46d01685e54:1929660281</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-09 15:51:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category_m2m">sys_properties_category_m2m</sys_db_object>
+        <sys_id>4ac3281f460f43269f9bb5f2b2e65d61</sys_id>
+        <sys_metadata>20b8b22907111010c498f2ae7c1ed038</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_482715_hello_wor.autoCloseOverdue.NeedIt Properties</sys_name>
+        <sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
+        <sys_scope_delete display_value="">64c714298a4f455ab3cd22ca4e330604</sys_scope_delete>
+        <sys_update_name>sys_properties_category_m2m_20b8b22907111010c498f2ae7c1ed038</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_m2m_20b8b22907111010c498f2ae7c1ed038">3809762907111010c498f2ae7c1ed054</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-09 15:51:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
