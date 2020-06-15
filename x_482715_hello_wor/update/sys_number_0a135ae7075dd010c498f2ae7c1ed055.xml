@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_482715_hello_wor_needit_tasks">x_482715_hello_wor_needit_tasks</category>
+        <maximum_digits>6</maximum_digits>
+        <number>3000</number>
+        <prefix>NITASK</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-15 18:09:30</sys_created_on>
+        <sys_id>0a135ae7075dd010c498f2ae7c1ed055</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NITASK</sys_name>
+        <sys_package display_value="Hello World" source="x_482715_hello_wor">59fa22dc07781010c498f2ae7c1ed0ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">59fa22dc07781010c498f2ae7c1ed0ab</sys_scope>
+        <sys_update_name>sys_number_0a135ae7075dd010c498f2ae7c1ed055</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-15 18:09:30</sys_updated_on>
+    </sys_number>
+</record_update>
